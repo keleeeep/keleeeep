@@ -8,7 +8,7 @@ Very strong organizational, presentational, and communication skills to help pla
 
 Skills: PHP (Codeigniter & Laravel) / MySQL / JS / HTML / CSS
 
-- 🔭 I’m currently working on a software house 
+- 🔭 I’m currently working on Kulina
 - 🌱 I’m currently learning Golang 
 - 💬 Ask me about Codeigniter and CSS 
 - 📫 How to reach me: goenawan.fredy@gmail.com 
