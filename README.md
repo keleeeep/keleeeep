@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredy Gunawan</h1>
-<h3 align="center">A passionate web developer / designer from Indonesia</h3>
+<h3 align="center">A passionate Backend Engineer / Web Developer From Indonesia</h3>
 
 - 🔭 I’m currently working on **Kulina**
 
